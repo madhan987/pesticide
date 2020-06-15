@@ -14,3 +14,11 @@ h1 {
 // img {
 //     width: auto;
 // }
+.list-inline>li {
+    display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+  .jumbotron {
+      margin: 0;
+  }
