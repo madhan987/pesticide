@@ -35,3 +35,12 @@ h1 {
 //   .carousel-item {
 //     height: 250px;
 //   }'
+
+ul, li {
+    list-style: outside none none;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+} 
