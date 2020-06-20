@@ -5,12 +5,13 @@ h1 {
 .example-card {
     max-width: 400px;
     // height: 300px;
-  }
-  
-  .example-header-image {
+}
+
+.example-header-image {
     background-image: url('/assets/icons/logo.PNG');
     background-size: cover;
-  }
+}
+
 // img {
 //     width: auto;
 // }
@@ -18,29 +19,26 @@ h1 {
     display: inline-block;
     padding-right: 5px;
     padding-left: 5px;
-  }
-  .jumbotron {
-      margin: 0;
-  }
+}
 
+.jumbotron {
+    margin: 0;
+}
 
 //   #slider .carousel-item {
 //     height: 500px;
 //   }
-  
-  .carousel-item>img {
+.carousel-item>img {
     width: 100%
-  }
+}
 
 //   .carousel-item {
 //     height: 250px;
 //   }'
-
-ul, li {
-    list-style: outside none none;
+.footer-social-menu,
+.footer-conatct-menu {
+    ul,
+    li {
+        list-style: outside none none;
+    }
 }
-
-ul {
-  margin: 0;
-  padding: 0;
-} 
